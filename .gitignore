@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+data/csk/
+*set.txt
+
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/

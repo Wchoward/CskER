@@ -1,0 +1,28 @@
+{
+    "label": "0",
+    "label_desc": "anger"
+}
+{
+    "label": "1",
+    "label_desc": "disgust"
+}
+{
+    "label": "2",
+    "label_desc": "fear"
+}
+{
+    "label": "3",
+    "label_desc": "guilt"
+}
+{
+    "label": "4",
+    "label_desc": "joy"
+}
+{
+    "label": "5",
+    "label_desc": "sadness"
+}
+{
+    "label": "6",
+    "label_desc": "shame"
+}

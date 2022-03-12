@@ -1,0 +1,24 @@
+{
+    "label": "0",
+    "label_desc": "anger"
+}
+{
+    "label": "1",
+    "label_desc": "disgust"
+}
+{
+    "label": "2",
+    "label_desc": "fear"
+}
+{
+    "label": "3",
+    "label_desc": "joy"
+}
+{
+    "label": "4",
+    "label_desc": "sadness"
+}
+{
+    "label": "5",
+    "label_desc": "surprise"
+}
